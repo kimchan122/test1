@@ -7,5 +7,6 @@ int main()
 	cout << "Test3" << '\n';
 	cout << "Test4" << '\n';
 	cout << "해결좀하자" << '\n';
+	cout << "why korean an dem?" << '\n';
 	return 0;
 }
