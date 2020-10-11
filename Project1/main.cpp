@@ -6,5 +6,6 @@ int main()
 	cout << "Test2" << '\n';
 	cout << "Test3" << '\n';
 	cout << "Test4" << '\n';
+	cout << "해결좀하자" << '\n';
 	return 0;
 }
